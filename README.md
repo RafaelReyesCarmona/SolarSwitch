@@ -1,3 +1,5 @@
+<img src="images/day-and-night.png" width=48 height=48 align=right>
+
 # SolarSwitch
 
 SolarSwitch es en esencia un programador astronómico desarrollado de forma modular y en base a un microcontrolador como principal elemento de control. Es por tanto un sistema flexible, fácilmente ampliable y dinámico, que se adapta a múltiples situaciones.
